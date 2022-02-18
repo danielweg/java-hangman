@@ -10,7 +10,7 @@ TEHERAN
 OSTRZE
 kurant
 lot
-Essen 
+Essen
 Badania
 BRAMA
 DYNAMO
@@ -38,7 +38,7 @@ kałamarnica
 sprzątaczka
 dyrektor szkoły
 winogrono
-Miami 
+Miami
 buty
 BIBLIA
 Kielce 
@@ -428,7 +428,7 @@ FABRYKA
 GÓRNIK
 CHICAGO
 temperatura
-Shenzhen 
+Shenzhen
 PROCHY
 blizna
 COLLEGE
@@ -496,7 +496,7 @@ AUTOMAT
 kolano
 ślusarz
 SKLEP
-Sydney 
+Sydney
 PŁYTKA
 APTEKA
 torebka
@@ -871,10 +871,10 @@ papuga
 TŁUSZCZ
 MŁYN
 KONSJERŻ
-KAIR 
+KAIR
 ramię
 KARTA KREDYTOWA
-Kolkata 
+Kolkata
 auto
 wiśnia
 KICHNIĘCIE
@@ -891,7 +891,7 @@ człowiek
 studnia
 KREWETKI
 KOWBOJ
-Lagos 
+Lagos
 KRYSZTAŁ
 lis
 geniusz
@@ -986,7 +986,7 @@ BLONDYNKA
 krokodyl
 BULDOŻER
 magik
-New York 
+New York
 teczka
 kosmetyczka
 radar
@@ -1035,7 +1035,7 @@ szczypce
 Gruszka
 płetwa
 GORĄCZKA
-KUALA LUMPUR 
+KUALA LUMPUR
 SMOK
 powódź
 PRZEŚCIERADŁO
@@ -1099,7 +1099,7 @@ Delhi
 STRZELANINA
 STÓŁ
 POŻYCZKA
-Houston (TX) 
+Houston (TX)
 BIEDA
 CHOROBA
 HEROLD
@@ -1225,7 +1225,7 @@ CIASTO
 makler
 polityk
 FARMA
-Stambuł 
+Stambuł
 GLINA
 RANEK
 KOPA SIANA
@@ -1311,7 +1311,7 @@ SZLAUCH
 WIECZÓR
 NOWICJUSZ
 MATA
-Washington 
+Washington
 SPODEK
 ZOO
 skok
@@ -1331,7 +1331,7 @@ koc
 GRUDA
 ŚWIĘTY
 LIMA
-Guangzhou 
+Guangzhou
 LASER
 WYWAR
 KUCHARZ
@@ -1351,7 +1351,7 @@ biblioteka
 klient
 e-mail
 OKRUCHY
-MOSKWA 
+MOSKWA
 szpital
 wąsy
 CZIPSY
@@ -1577,7 +1577,7 @@ STOKROTKA
 Edukacja
 PARYŻ
 firma
-Rzym 
+Rzym
 BAŃKA
 PRZYSIĘGA
 JAJKO
